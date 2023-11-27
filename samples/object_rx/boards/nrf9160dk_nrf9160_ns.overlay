@@ -1,0 +1,10 @@
+/ {
+	aliases {
+		led-boot = &led0;
+		led-state = &led1;
+		led-out1 = &led2;
+		led-out2 = &led3;
+
+		btn-recv = &button0;
+	};
+};
