@@ -66,7 +66,7 @@ static int button_init(void)
     if (!device_is_ready(btn_recv.port)) {
         return -ENODEV;
     }
-    gpio_pin_configure_dt(&btn_recv, GPIO_INPUT);
+    gpio_pin_configure_dt(&btn_recv, GPIO_INPUT | GPIO_ACTIVE_LOW | GPIO_PULL_UP);
 
     return 0;
 }
