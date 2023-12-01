@@ -1,6 +1,6 @@
 # さくらのモノプラットフォーム Client library for nRFConnect サンプルプログラム集
 
-[さくらのモノプラットフォーム Client library for nRFConnect](https://github.com/sakura-internet/sipf-lib_nrfconnect)の[v211031](https://github.com/sakura-internet/sipf-lib_nrfconnect/releases/tag/v231030)に対応したサンプルプログラム集です。
+[さくらのモノプラットフォーム Client library for nRFConnect](https://github.com/sakura-internet/sipf-lib_nrfconnect)の[v231030](https://github.com/sakura-internet/sipf-lib_nrfconnect/releases/tag/v231030)に対応したサンプルプログラム集です。
 
 対応するnRF Connect SDKはv2.4.2です。
 
